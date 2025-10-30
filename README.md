@@ -4,7 +4,7 @@
 
 https://github.com/Mehrsa-Mohajeri-Developer/Parallax_Portfolio/assets/145048780/bedeac5c-4995-4142-816f-e9a77f63833a
 
-- 🔗 [Demo Project](https://mehrsa-mohajeri-developer.github.io/Parallax_Portfolio/)
+- 🔗 [Demo Project](https://mehrsamohajeri.github.io/Parallax_Portfolio/)
   
 - 👩🏻‍💻 Developed by Mehrsa Mohajeri
 
